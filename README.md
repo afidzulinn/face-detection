@@ -11,6 +11,9 @@ Proyek ini mengimplementasikan sistem deteksi wajah dan masker dalam rekaman vid
 - Menyimpan hasil deteksi dalam file teks untuk analisis lebih lanjut.
 
 
+https://github.com/user-attachments/assets/be319933-d53a-46a6-81e0-03ed6a9449b2
+
+
 ## Instalasi
 
 1. Clone repository ini:
@@ -81,20 +84,7 @@ Untuk mendapatkan screen record dari hasil deteksi:
 2. Hasil video akan disimpan di (`result/video-result.mp4`).
 3. Setelah selesai, putar video hasil (`result/video-result.mp4`).
 
-[Link ke Screen Record Hasil Deteksi]
 
-```
-
-## Dependensi
-
-Pastikan Anda telah menginstal semua dependensi berikut:
-
-```
-ultralytics
-opencv-python
-face_recognition
-numpy
-tqdm
 ```
 
 Semua dependensi dapat diinstal menggunakan file `requirements.txt` yang disediakan.
